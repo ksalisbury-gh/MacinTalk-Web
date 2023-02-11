@@ -1,0 +1,32 @@
+The following are supported inputs for "?voice=".
+
+Agnes
+Alex
+Allison
+Ava
+Bruce
+Fred
+Junior
+Kathy
+Nicky
+Princess
+Ralph
+Samantha
+Susan
+Tom
+Vicki
+Victoria
+Albert
+Bad News
+Bahh
+Bells
+Boing
+Bubbles
+Cellos
+Deranged
+Good News
+Hysterical
+Pipe Organ
+Trinoids
+Whisper
+Zarvox
